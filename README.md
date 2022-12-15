@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rbih-boulanouar
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning log files analysis
+- 🌱 I’m currently learning Discord.py bot security 
 - 📫 How to reach me boulanouar.rbih@univ-constantine2.dz
 
 <!---
