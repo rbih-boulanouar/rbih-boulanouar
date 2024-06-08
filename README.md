@@ -35,7 +35,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
+background: url(https://raw.githubusercontent.com/rbih-boulanouar/rbih-boulanouar/main/cat.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
